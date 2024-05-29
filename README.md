@@ -13,8 +13,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-- [Live Site URL](https://github.com/enniovilla/blog-preview-card)
-- [Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-9Mfa1LqwPT)
+- [Live Site URL](https://enniovilla.github.io/blog-preview-card/)
+- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-pTknbmgu2I)
 
 ![MyProject](./documentation/gif.gif)
 
